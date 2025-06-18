@@ -30,7 +30,7 @@ Lucenox is a custom mechanical keyboard project designed for elegance, precision
 
 ### Building the Keyboard
 
-1. Assemble the PCB with components: switches, LEDs, OLED, rotary encoders, and connectors
+1. Assemble the PCB with components: switches, LEDs, OLED
 2. Flash the firmware using the QMK tutorial
 
 ### Firmware
