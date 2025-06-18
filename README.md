@@ -6,7 +6,7 @@
 
 ## Overview
 
-Lucenox is a custom mechanical keyboard project designed for elegance, precision, and premium craftsmanship. Inspired by the contrast of light and shadow, Lucenox features a sleek black PCB and refined design to deliver both style and performance.
+Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, and top-tier build quality. Inspired by light and shadow, it features a sleek design focused on performance.
 
 ---
 
@@ -38,8 +38,7 @@ Lucenox is a custom mechanical keyboard project designed for elegance, precision
 The Lucenox firmware supports:
 
 - Custom key mappings
-- RGB lighting effects
-- Encoder control logic
+- RGB lighting effectsc
 
 ---
 
