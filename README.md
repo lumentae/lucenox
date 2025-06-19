@@ -23,7 +23,7 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 
 ### Building the Keyboard
 
-1. Assemble the PCB with components: switches, LEDs, OLED
+1. Assemble the PCB with components: switches, LEDs
 2. Flash the firmware using the QMK tutorial
 
 ### Firmware
@@ -37,7 +37,6 @@ The Lucenox firmware supports:
 
 ## Future Plans
 
-- Expandable modules for extra functionality
 - Software for controlling the LEDs
 
 ---
