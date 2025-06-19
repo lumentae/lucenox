@@ -12,6 +12,11 @@ After 3h of brainstorming and designing the schematic, I moved on to the pcb.
 This is what took me the longest because I tried to route it manually.
 ![Schematic](media/Schematic.png)
 
+Time spent: 6h
+
 # 19.06
-Today I remembered that I have Freerouting installed, so I used it for it's autorouting feature and it saved me many hours of painfully placing vias and routes
+Today I remembered that I have Freerouting installed, so I used it for it's autorouting feature and it saved me many hours of painfully placing vias and routes.
+I also adjusted the layout and mcu position.
 ![PCB](media/PCB.png)
+
+Time spent: 2h
