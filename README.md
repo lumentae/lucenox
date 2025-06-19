@@ -10,13 +10,6 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 
 ---
 
-## Features
-
-- **Sleek Black PCB:** Designed for durability and an elegant aesthetic
-- **Custom RGB Underglow:** Subtle lighting to highlight the beauty of the dark chassis without overpowering
-
----
-
 ## Technical Details
 
 - **Microcontroller:** Raspberry Pi Pico 
