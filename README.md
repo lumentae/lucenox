@@ -15,7 +15,7 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 I made the project just for fun and to see if I could build my own keyboard.
 I wanted something that felt exactly like how I type on my current keyboard, but in a smaller size.
 
---
+---
 
 ## Technical Details
 
