@@ -10,6 +10,13 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 
 ---
 
+## Reason
+
+I made the project just for fun and to see if I could build my own keyboard.
+I wanted something that felt exactly like how I type on my current keyboard, but in a smaller size.
+
+--
+
 ## Technical Details
 
 - **Microcontroller:** Raspberry Pi Pico 
@@ -19,32 +26,16 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 
 ---
 
-## Getting Started
-
-### Building the Keyboard
-
-1. Assemble the PCB with components: switches, LEDs
-2. Flash the firmware using the QMK tutorial
-
-### Firmware
-
-The Lucenox firmware supports:
-
-- Custom key mappings
-- RGB lighting effectsc
-
----
-
 ## Future Plans
 
 - Software for controlling the LEDs
 
 ---
 
-## License
+## Schematic
+![Schematic](media/Schematic.png)
 
-This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+## PCB
+![PCB2](media/PCB2.png)
 
----
-
-*“Lux in tenebris” — Light in the darkness.*
+## BOM
