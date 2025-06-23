@@ -20,3 +20,10 @@ I also adjusted the layout and mcu position.
 ![PCB](media/PCB.png)
 
 Time spent: 2h
+
+# 22.06
+I placed the mcu under the space key, so that the pcb doesn't look so weird.
+I'll need a longer usb cable now 🥲
+![PCB2](media/PCB2.png)
+
+Time spent: 30m
