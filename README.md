@@ -32,6 +32,12 @@ I wanted something that felt exactly like how I type on my current keyboard, but
 
 ---
 
+## Front
+![Front](media/Front.png)
+
+## Back
+![Back](media/Back.png)
+
 ## Schematic
 ![Schematic](media/Schematic.png)
 

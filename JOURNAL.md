@@ -26,4 +26,10 @@ I placed the mcu under the space key, so that the pcb doesn't look so weird.
 I'll need a longer usb cable now 🥲
 ![PCB2](media/PCB2.png)
 
-Time spent: 30m
+Time spent: 1h
+
+# 23.06
+Today I worked on polishing the repo and uploading all files I used for creating the project.
+Tomorrow I will work on the cad model
+
+Time spent: 3h
