@@ -14,6 +14,7 @@ Lucenox is a custom mechanical keyboard built for clean looks, smooth typing, an
 
 I made the project just for fun and to see if I could build my own keyboard.
 I wanted something that felt exactly like how I type on my current keyboard, but in a smaller size.
+Also I currently use a membrane keyboard and I thought that highway could give me an opportunity to learn how mechanical keyboards work and switch to a mechanical one.
 
 ---
 
@@ -48,11 +49,11 @@ Quantity  | Name                   | Link                                       
 1         | LCSC Fees              | -                                                                                                        | 9.58€
 1         | Raspberry Pi Pico      | https://aliexpress.com/item/1005007384675543.html                                                        | 2.79€
 1         | Keycaps                | https://aliexpress.com/item/1005006484466863.html                                                        | 20.99€
-1         | PCB (without coupon)   | -                                                                                                        | 73.49€
-1         | Total                  |                                                                                                          | 153.46€
+1         | PCB (without coupon)   | -                                                                                                        | 88.11€
+1         | Total                  |                                                                                                          | 168.08€
 
 ### Total
 EUR     | USD     | Notes
 ------- | ------- | -----
-153.46€ | 180.31$ | without pcb coupon
-133.46€ | 156.81$ | with pcb coupon
+168.08€ | 197.44$ | without pcb coupon
+148.08€ | 173.95$ | with pcb coupon
