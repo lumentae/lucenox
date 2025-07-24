@@ -5,6 +5,8 @@ description: "Lucenox is a 75% mechanical keyboard with 84 keys, RGB underglow, 
 created_at: "2025-06-18"
 ---
 
+Total Time Spent: 14h
+
 # 18.06
 I started working on the schematic, which I got done quickly but I needed to research how keyboard matrices work and found [this](https://www.youtube.com/watch?v=7LyziNdFlew) video by Joe Scotto.
 
@@ -33,3 +35,15 @@ Today I worked on polishing the repo and uploading all files I used for creating
 Tomorrow I will work on the cad model
 
 Time spent: 3h
+
+# 24.07
+I finished the model after 1 month because I didn't have enough motivation to finish it.
+Also I didn't make a front plate because I like to look at the pcb
+![Case](media/Case.png)
+
+I also modified the pcb to not have that cut out in the top right corner
+![PCB_Final](media/Front.png)
+
+I finally finished the bom and I only need to make the firmware
+
+Time spent: 4h
