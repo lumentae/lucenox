@@ -49,7 +49,7 @@ I finally finished the bom and I only need to make the firmware
 Time spent: 4h
 
 # 25.07
-After a long trial and error session with QMK I finally managed that the firmware is building
+After a long trial and error session with QMK I finally managed that the firmware is building.
 The QMK docs are not very good at explaining how to make your own keyboard...
 
 Time spent: 3h
