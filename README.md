@@ -12,8 +12,7 @@ Lucenox is a custom mechanical keyboard with hotswappable switches which was ins
 
 ## Reason
 
-I made the project just for fun and to see if I could build my own keyboard.
-I wanted something that felt exactly like how I type on my current keyboard, but in a smaller size.
+I made the project just for fun and to see if I could build my own keyboard, because I wanted something that felt exactly like my current keyboard, but in a smaller size.
 Also I currently use a membrane keyboard and I thought that highway could give me an opportunity to learn how mechanical keyboards work and switch to a mechanical one.
 
 ---
