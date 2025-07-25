@@ -5,7 +5,7 @@ description: "Lucenox is a 75% mechanical keyboard with 84 keys, RGB underglow, 
 created_at: "2025-06-18"
 ---
 
-Total Time Spent: 14h
+Total Time Spent: 19h
 
 # 18.06
 I started working on the schematic, which I got done quickly but I needed to research how keyboard matrices work and found [this](https://www.youtube.com/watch?v=7LyziNdFlew) video by Joe Scotto.
@@ -47,3 +47,9 @@ I also modified the pcb to not have that cut out in the top right corner
 I finally finished the bom and I only need to make the firmware
 
 Time spent: 4h
+
+# 25.07
+After a long trial and error session with QMK I finally managed that the firmware is building
+The QMK docs are not very good at explaining how to make your own keyboard...
+
+Time spent: 3h
