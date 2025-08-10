@@ -26,6 +26,10 @@ Also I currently use a membrane keyboard and I thought that highway could give m
 
 ---
 
+## Assembly
+![Assembly](media/Assembly.png)
+![Assembly_Other](media/Assembly_Other.png)
+
 ## Front
 ![Front](media/Front.png)
 
