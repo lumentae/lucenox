@@ -9053,7 +9053,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 33.02 0)
 			(effects
 				(font
@@ -9216,7 +9216,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 142.24 33.02 0)
 			(effects
 				(font
@@ -9655,7 +9655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 95.25 0)
 			(effects
 				(font
@@ -9877,7 +9877,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 248.92 80.01 0)
 			(effects
 				(font
@@ -10040,7 +10040,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 64.77 0)
 			(effects
 				(font
@@ -10278,7 +10278,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 177.8 95.25 0)
 			(effects
 				(font
@@ -10441,7 +10441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 54.61 80.01 0)
 			(effects
 				(font
@@ -10671,7 +10671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 64.77 0)
 			(effects
 				(font
@@ -10759,7 +10759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 284.48 110.49 0)
 			(effects
 				(font
@@ -10922,7 +10922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 49.53 0)
 			(effects
 				(font
@@ -11010,7 +11010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 80.01 0)
 			(effects
 				(font
@@ -11098,7 +11098,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 33.02 0)
 			(effects
 				(font
@@ -11186,7 +11186,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 110.49 0)
 			(effects
 				(font
@@ -11341,7 +11341,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 266.7 49.53 0)
 			(effects
 				(font
@@ -11638,7 +11638,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 266.7 33.02 0)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 110.49 0)
 			(effects
 				(font
@@ -12548,7 +12548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 110.49 0)
 			(effects
 				(font
@@ -12703,7 +12703,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 302.26 64.77 0)
 			(effects
 				(font
@@ -12858,7 +12858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 110.49 0)
 			(effects
 				(font
@@ -13230,7 +13230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 80.01 0)
 			(effects
 				(font
@@ -13460,7 +13460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 160.02 49.53 0)
 			(effects
 				(font
@@ -13548,7 +13548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 160.02 95.25 0)
 			(effects
 				(font
@@ -13636,7 +13636,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 95.25 0)
 			(effects
 				(font
@@ -13791,7 +13791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 49.53 0)
 			(effects
 				(font
@@ -13946,7 +13946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 33.02 0)
 			(effects
 				(font
@@ -14176,7 +14176,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 160.02 33.02 0)
 			(effects
 				(font
@@ -14264,7 +14264,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 302.26 49.53 0)
 			(effects
 				(font
@@ -14486,7 +14486,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 320.04 64.77 0)
 			(effects
 				(font
@@ -14791,7 +14791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 64.77 0)
 			(effects
 				(font
@@ -15171,7 +15171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 106.68 80.01 0)
 			(effects
 				(font
@@ -15259,7 +15259,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 80.01 0)
 			(effects
 				(font
@@ -15990,7 +15990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 177.8 33.02 0)
 			(effects
 				(font
@@ -16078,7 +16078,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 33.02 0)
 			(effects
 				(font
@@ -16667,7 +16667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 49.53 0)
 			(effects
 				(font
@@ -16755,7 +16755,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 106.68 49.53 0)
 			(effects
 				(font
@@ -16977,7 +16977,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -17065,7 +17065,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 95.25 0)
 			(effects
 				(font
@@ -17153,7 +17153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 33.02 0)
 			(effects
 				(font
@@ -17316,7 +17316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 106.68 95.25 0)
 			(effects
 				(font
@@ -17554,7 +17554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 160.02 64.77 0)
 			(effects
 				(font
@@ -17792,7 +17792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 80.01 0)
 			(effects
 				(font
@@ -17947,7 +17947,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 49.53 0)
 			(effects
 				(font
@@ -18169,7 +18169,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 54.61 49.53 0)
 			(effects
 				(font
@@ -18257,7 +18257,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 64.77 0)
 			(effects
 				(font
@@ -18345,7 +18345,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 266.7 64.77 0)
 			(effects
 				(font
@@ -18500,7 +18500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 160.02 80.01 0)
 			(effects
 				(font
@@ -18872,7 +18872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 64.77 0)
 			(effects
 				(font
@@ -19177,7 +19177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 106.68 33.02 0)
 			(effects
 				(font
@@ -19407,7 +19407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 33.02 0)
 			(effects
 				(font
@@ -19562,7 +19562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 33.02 0)
 			(effects
 				(font
@@ -19859,7 +19859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 54.61 95.25 0)
 			(effects
 				(font
@@ -20148,7 +20148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 177.8 64.77 0)
 			(effects
 				(font
@@ -20303,7 +20303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 49.53 0)
 			(effects
 				(font
@@ -20817,7 +20817,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 54.61 64.77 0)
 			(effects
 				(font
@@ -20972,7 +20972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 284.48 49.53 0)
 			(effects
 				(font
@@ -21352,7 +21352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 49.53 0)
 			(effects
 				(font
@@ -21649,7 +21649,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 49.53 0)
 			(effects
 				(font
@@ -22005,7 +22005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 142.24 64.77 0)
 			(effects
 				(font
@@ -22535,7 +22535,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 177.8 49.53 0)
 			(effects
 				(font
@@ -22957,7 +22957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 248.92 64.77 0)
 			(effects
 				(font
@@ -23254,7 +23254,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 177.8 80.01 0)
 			(effects
 				(font
@@ -23342,7 +23342,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 302.26 95.25 0)
 			(effects
 				(font
@@ -23647,7 +23647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 110.49 0)
 			(effects
 				(font
@@ -23952,7 +23952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 320.04 110.49 0)
 			(effects
 				(font
@@ -24182,7 +24182,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 95.25 0)
 			(effects
 				(font
@@ -24270,7 +24270,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 106.68 64.77 0)
 			(effects
 				(font
@@ -24500,7 +24500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 80.01 0)
 			(effects
 				(font
@@ -24588,7 +24588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 284.48 64.77 0)
 			(effects
 				(font
@@ -25311,7 +25311,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 213.36 80.01 0)
 			(effects
 				(font
@@ -25399,7 +25399,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 88.9 95.25 0)
 			(effects
 				(font
@@ -25846,7 +25846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 38.1 64.77 0)
 			(effects
 				(font
@@ -25934,7 +25934,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 248.92 49.53 0)
 			(effects
 				(font
@@ -26022,7 +26022,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 54.61 110.49 0)
 			(effects
 				(font
@@ -26177,7 +26177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 320.04 49.53 0)
 			(effects
 				(font
@@ -26265,7 +26265,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 124.46 95.25 0)
 			(effects
 				(font
@@ -26353,7 +26353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 302.26 110.49 0)
 			(effects
 				(font
@@ -26508,7 +26508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 142.24 95.25 0)
 			(effects
 				(font
@@ -26872,7 +26872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 80.01 0)
 			(effects
 				(font
@@ -27035,7 +27035,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 142.24 49.53 0)
 			(effects
 				(font
@@ -27198,7 +27198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 231.14 110.49 0)
 			(effects
 				(font
@@ -27511,7 +27511,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 71.12 64.77 0)
 			(effects
 				(font
@@ -27800,7 +27800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 195.58 95.25 0)
 			(effects
 				(font
@@ -28038,7 +28038,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 248.92 110.49 0)
 			(effects
 				(font
@@ -28469,7 +28469,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 142.24 80.01 0)
 			(effects
 				(font
